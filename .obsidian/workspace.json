@@ -1,0 +1,199 @@
+{
+  "main": {
+    "id": "e988f39990c1b32f",
+    "type": "split",
+    "children": [
+      {
+        "id": "968abb4066bd15c9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1a5e404b10bcb09e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01. Bevezetés.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "33c81cabcfa7f8b2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02. A tesztelés.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1f2bef7cb18dc909",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03. Alapelvek.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e89123f87c92e569",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01. Bevezetés.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a3f9addae1522f08",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "08. Szoftverfejlesztési modellek.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bdee683461da0179",
+    "type": "split",
+    "children": [
+      {
+        "id": "b618d26485d35124",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "21c00f5d3b6e85dd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8b69c53e85506e29",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3d8fb79178c14846",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "8bffe75f2afea556",
+    "type": "split",
+    "children": [
+      {
+        "id": "67baf2c244beef54",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "27762568af5e5833",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "08. Szoftverfejlesztési modellek.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "93861a4f5e4a1477",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "08. Szoftverfejlesztési modellek.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c4b0bf6361343765",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "26820d681d010795",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "08. Szoftverfejlesztési modellek.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "a3f9addae1522f08",
+  "lastOpenFiles": [
+    "Pasted image 20221210175635.png",
+    "08. Szoftverfejlesztési modellek.md",
+    "03. Alapelvek.md",
+    "06. Lépések.md",
+    "02. A tesztelés.md",
+    "01. Bevezetés.md",
+    "teszttervezés és irányítás.md",
+    "2022-12-10.md"
+  ]
+}
