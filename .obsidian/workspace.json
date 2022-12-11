@@ -61,9 +61,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06. Lépések.md",
+                "file": "10. Szoftverfejlesztési modellek.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "06. Lépések.md",
+                "file": "10. Szoftverfejlesztési modellek.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "06. Lépések.md",
+                "file": "10. Szoftverfejlesztési modellek.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "06. Lépések.md"
+                "file": "10. Szoftverfejlesztési modellek.md"
               }
             }
           },
@@ -194,10 +194,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "5ca1bb5b4f4feb94",
+  "active": "a3f9addae1522f08",
   "lastOpenFiles": [
-    "10. Szoftverfejlesztési modellek.md",
     "06. Lépések.md",
+    "10. Szoftverfejlesztési modellek.md",
     "03. Alapelvek.md",
     "Képek/v-modell.jpg",
     "01. Bevezetés.md",
