@@ -177,15 +177,24 @@
                 "file": "06. Lépések.md"
               }
             }
+          },
+          {
+            "id": "5ca1bb5b4f4feb94",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "a3f9addae1522f08",
+  "active": "5ca1bb5b4f4feb94",
   "lastOpenFiles": [
     "10. Szoftverfejlesztési modellek.md",
     "06. Lépések.md",
