@@ -1,4 +1,11 @@
 {
   "spellcheck": true,
-  "useTab": false
+  "useTab": true,
+  "strictLineBreaks": true,
+  "showFrontmatter": false,
+  "foldHeading": true,
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "root",
+  "newFileFolderPath": "",
+  "useMarkdownLinks": true
 }
