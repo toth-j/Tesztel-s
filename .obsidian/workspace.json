@@ -61,9 +61,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10. Szoftverfejlesztési modellek.md",
+                "file": "06. Lépések.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10. Szoftverfejlesztési modellek.md",
+                "file": "06. Lépések.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10. Szoftverfejlesztési modellek.md",
+                "file": "06. Lépések.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10. Szoftverfejlesztési modellek.md"
+                "file": "06. Lépések.md"
               }
             }
           }
@@ -187,12 +187,12 @@
   },
   "active": "a3f9addae1522f08",
   "lastOpenFiles": [
-    "Képek/v-modell.jpg",
     "10. Szoftverfejlesztési modellek.md",
-    "01. Bevezetés.md",
     "06. Lépések.md",
-    "Pasted image 20221210175635.png",
     "03. Alapelvek.md",
+    "Képek/v-modell.jpg",
+    "01. Bevezetés.md",
+    "Pasted image 20221210175635.png",
     "02. A tesztelés.md",
     "teszttervezés és irányítás.md",
     "2022-12-10.md"

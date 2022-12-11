@@ -7,5 +7,6 @@
   "alwaysUpdateLinks": true,
   "newFileLocation": "root",
   "newFileFolderPath": "",
-  "useMarkdownLinks": true
+  "useMarkdownLinks": true,
+  "showInlineTitle": false
 }
